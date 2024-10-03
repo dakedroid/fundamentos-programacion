@@ -1,2 +1,0 @@
-#Comentario
-print("Hola Mundo!")
