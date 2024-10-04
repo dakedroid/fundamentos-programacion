@@ -1,2 +1,0 @@
-#SEGUNDO
-print("Segundo")
